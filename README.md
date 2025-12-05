@@ -24,5 +24,7 @@
 
 ## Installation & Setup
 #### 1. Clone the repository
-git clone https://github.com/your/repo.git
+```bash
+git clone https://github.com/anupong-pakee-dev/debt-savings-app &&
 cd debt-savings-app
+```
